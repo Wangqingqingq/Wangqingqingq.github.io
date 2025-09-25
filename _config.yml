@@ -21,7 +21,7 @@ repository               : "Wangqingqingq/Wangqingqingq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wqq.jpg"
+  avatar           : "/assets/images/wqq.jpg"
   name             : "Qingqing Wang"
   pronouns         : # example: "she/her"  
   bio              : "An Observational Cosmologist<br>"
