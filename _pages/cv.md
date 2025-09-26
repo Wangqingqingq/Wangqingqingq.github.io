@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-$^{\dagger}$ Indicates expected
-* 2023-2026$^{\dagger}$
+$\dagger$ Indicates expected
+* 2023-2026$\dagger$
   * Ph.D., Astrophysics, University of Science and Technology of China, China
   * Supervisors: Prof. Yi-Fu Cai
   * Major: Cosmology
