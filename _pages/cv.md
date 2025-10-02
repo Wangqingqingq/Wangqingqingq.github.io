@@ -68,7 +68,7 @@ Publications
   <div class="wordwrap">Please find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a> or <a href="https://inspirehep.net/authors/2789730?ui-citation-summary=true">Inspire</a> profile.</div>
 {% endif %}
 
-* Please find my articles on <a href="https://inspirehep.net/authors/2789730?ui-citation-summary=true">Inspire</a>.
+* Please find my articles on <a href="https://inspirehep.net/authors/2747031?ui-citation-summary=true&ui-exclude-self-citations=true">Inspire</a>.
 
 References
 ======
